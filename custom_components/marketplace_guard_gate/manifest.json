@@ -1,0 +1,17 @@
+{
+  "domain": "marketplace_guard_gate",
+  "name": "Marketplace Guard Gate",
+  "codeowners": [
+    "@psewar"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "marketplace"
+  ],
+  "documentation": "https://github.com/psewar/marketplace-guard-gate",
+  "integration_type": "service",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/psewar/marketplace-guard-gate/issues",
+  "single_config_entry": true,
+  "version": "2.6.0"
+}
